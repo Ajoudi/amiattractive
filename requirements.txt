@@ -1,0 +1,9 @@
+gunicorn
+flask
+pillow
+scipy
+numpy
+regex
+pybase64
+tensorflow
+keras
